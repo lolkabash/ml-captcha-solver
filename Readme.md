@@ -21,6 +21,7 @@ Everyone can be a super!
 * [Tesseract](https://tesseract-ocr.github.io/tessdoc/Installation.html)
 * [TensorFlow](https://www.tensorflow.org/install)
 * [mltu](https://pypi.org/project/mltu/)
+* [tf2onnx](https://pypi.org/project/tf2onnx/)
 * [Advance Rest Client](https://install.advancedrestclient.com/)
 * [Google Collab](https://colab.research.google.com/)
 
